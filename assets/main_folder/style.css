@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    /*
+    border: 2px solid red;
+    */
+    height: 70px;
+    margin-right: 790px;
+}
+
+nav {
+    /*
+    border: 1px solid blue;
+    */
+    background-color: #000;
+}
+
+.menu {
+    display: flex;
+    justify-content: right;
+    gap: 35px;
+    margin-right: 30px;
+    align-items: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
