@@ -15,7 +15,8 @@ body {
 
 img {
     height: 70px;
-    margin-right: 24.3rem;
+    margin-right: 20.0rem;
+    
 }
 
 nav {
@@ -52,7 +53,7 @@ li {
 
 .search_box{  
    display: flex;
-   margin-right: -4rem;
+   margin-right: -4.5rem;
 }
 
 input{  
@@ -64,7 +65,7 @@ input{
     color: rgb(71, 61, 61); 
     border-radius: 5rem;
     padding: 0.0rem;
-    margin-right: 11rem;
+    margin-right: 16rem;
     margin-top: 0.2rem;
     background-color: #fff;
     cursor: pointer;
@@ -93,7 +94,7 @@ input{
 }
 
 .promotion{
-    margin:  20px -45px 0 0;
+    margin:  20px -150px 0 0;
 }
 
 button{
