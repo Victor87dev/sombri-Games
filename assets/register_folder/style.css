@@ -122,10 +122,10 @@ text-align: center;
 }
 
 button{
-  padding: 20px 30px 20px 30px;
-  font-size: 1rem;
-  font-family: 'Tilt Warp', cursive;
-  background-color: rgb(255, 68, 0);
-  border: none;
-  cursor: pointer;
+padding: 20px 30px 20px 30px;
+font-size: 1rem;
+font-family: 'Tilt Warp', cursive;
+background-color: rgb(255, 68, 0);
+border: none;
+cursor: pointer;
 }
