@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
 * {
 margin: 0;
 padding: 0;
@@ -15,7 +15,7 @@ background-color: #000;
   
 img {
 height: 70px;
-margin-right: 23.5rem;  
+margin-right: 24.1rem;  
 }
   
 nav {
@@ -65,7 +65,7 @@ border: none;
 color: rgb(71, 61, 61); 
 border-radius: 5rem;
 padding: 0.0rem;
-margin-right: 13rem;
+margin-right: 11.3rem;
 margin-top: 0.2rem;
 background-color: #fff;
 cursor: pointer;
@@ -74,7 +74,58 @@ cursor: pointer;
 label{
 color: #fff;
 font-family: 'Inter', sans-serif;
+font-size: 1.1rem;
 }
 
+#register{
+    padding: 120px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-row-gap: 37px;
+    margin-top: 1rem;
+}
 
+#register div{
+    margin-left: 10px;
+    width: 400px;
+    text-align: center;  
+}
+
+.input2, .textInput2{
+    margin-left: 4.4rem;
+}
+
+.input3, .textInput3 {
+    margin-left: 5.3rem;
+} 
+
+.input5, .textInput5{
+    margin-left: 4.8rem;
+}
+
+.input4, .textInput4{
+    margin-left: 6.8rem;
+}
+
+input{
+    border-radius: 0.4rem;
+    padding: 0.7rem;
+    border: 2px solid rgb(255, 68, 0);
+}
+
+::placeholder{
+font-size: 1rem;
+}
  
+#botao{
+text-align: center;
+}
+
+button{
+  padding: 20px 30px 20px 30px;
+  font-size: 1rem;
+  font-family: 'Tilt Warp', cursive;
+  background-color: rgb(255, 68, 0);
+  border: none;
+  cursor: pointer;
+}

@@ -140,7 +140,7 @@ input{
 #container_grid{
   padding: 200px;
   display: grid;
-  grid-template-columns: auto auto auto ;
+  grid-template-columns: auto auto auto;
   gap: 110px;
   grid-row-gap: 25px;
   margin-top: -5rem;
